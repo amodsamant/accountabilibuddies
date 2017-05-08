@@ -26,5 +26,5 @@
 
     <dimen name="large_font">18sp</dimen>
     <dimen name="medium_font">15sp</dimen>
-    <dimen name="small_font">12sp</dimen>
+    <dimen name="small_font">13sp</dimen>
 </resources>
